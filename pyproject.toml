@@ -1,0 +1,7 @@
+[project]
+name = "agenta001"
+version = "0.1.0"
+description = "AI Agent for super sweet promps"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
